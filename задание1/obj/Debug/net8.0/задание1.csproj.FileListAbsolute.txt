@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\bin\Debug\net8.0\задание1.exe
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\bin\Debug\net8.0\задание1.deps.json
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\bin\Debug\net8.0\задание1.runtimeconfig.json
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\bin\Debug\net8.0\задание1.dll
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\bin\Debug\net8.0\задание1.pdb
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.sourcelink.json
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.dll
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\refint\задание1.dll
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.pdb
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\задание1.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Gvozd\Z\задание1\obj\Debug\net8.0\ref\задание1.dll
